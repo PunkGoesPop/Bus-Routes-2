@@ -17,7 +17,7 @@ bool isEqual(std::map<int, std::vector<std::string>>& routes, std::vector<std::s
 	return res;
 }
 
-//Поиск и возврат значение одинакого ключа
+//Поиск и возврат значение одинакового ключа
 int isFound(std::map<int, std::vector<std::string>>& routes, std::vector<std::string>& vec) {
 
 	int res = 0;
